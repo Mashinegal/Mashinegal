@@ -21,3 +21,8 @@ function App() {
 }
 
 export default App;
+
+<div className="visual-section">
+  <img src="path_to_image.png" alt="3D Model" className="visual-image" />
+</div>
+
