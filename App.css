@@ -22,3 +22,18 @@
   justify-content: center;
   align-items: center;
 }
+
+@media (max-width: 768px) {
+  .header {
+    text-align: center;
+  }
+
+  .visual-element {
+    width: 200px;
+    height: 200px;
+  }
+
+  .footer {
+    flex-direction: column;
+  }
+}
