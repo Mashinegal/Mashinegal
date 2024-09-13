@@ -13,13 +13,6 @@ This repository contains the assets and documentation for the landing page, incl
 - **Modern UI**: Features a sleek, futuristic interface with vibrant 3D elements.
 - **Community Stats**: Displays real-time user stats, including current users and projected reach.
 
-## Table of Contents
-
-1. [UI Design](#ui-design)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## UI Design
 
