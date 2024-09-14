@@ -19,6 +19,30 @@ function App() {
           <div className="users">
             <h3>430,000 Users</h3>
             <p>is building Cleverbot together</p>
+
+
+
+
+
+
+
+            import React from 'react';
+import ReactDOM from 'react-dom/client';
+import './index.css';
+import App from './App';
+import reportWebVitals from './reportWebVitals';
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
+
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+reportWebVitals();
           </div>
           <div className="reach">
             <h3>1M Users</h3>
